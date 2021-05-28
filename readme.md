@@ -1,6 +1,6 @@
 # LÖVE Retro-Shader
 
-![Screenshot](https://raw.githubusercontent.com/marc2o/compositeShader/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/marc2o/compositeShader/main/screenshot.png)
 
 Composite video signal shader with color fragments and scaliness for LÖVE (https://love2d.or).
 
